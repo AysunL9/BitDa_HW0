@@ -1,0 +1,53 @@
+{
+    "1.mp4": [
+      {
+        "start_frame": "1",
+        "end_frame": "49",
+        "action_type": "swipe",
+        "down_coordinate": [53.3, 49.7],
+        "up_coordinate": [53.3, 74],
+        "type_word": null
+      },
+      {
+        "start_frame": "160",
+        "end_frame": "174",
+        "action_type": "click",
+        "down_coordinate": [91.8, 10],
+        "up_coordinate": [91.8, 10],
+        "type_word": null
+      },
+      {
+        "start_frame": "174",
+        "end_frame": "266",
+        "action_type": "type",
+        "down_coordinate": null,
+        "up_coordinate": null,
+        "type_word": "bitco"
+      },
+      {
+        "start_frame": "267",
+        "end_frame": "279",
+        "action_type": "click",
+        "down_coordinate": [68.6, 15.3],
+        "up_coordinate": [68.6, 15.3],
+        "type_word": null
+      },
+      {
+        "start_frame": "418",
+        "end_frame": "448",
+        "action_type": "swipe",
+        "down_coordinate": [56.5, 53.6],
+        "up_coordinate": [56.5, 23.4],
+        "type_word": null
+      },
+      {
+        "start_frame": "519",
+        "end_frame": "533",
+        "action_type": "click",
+        "down_coordinate": [64.4, 74.8],
+        "up_coordinate": [64.4, 74.8],
+        "type_word": null
+      }
+    ]
+  }
+  
