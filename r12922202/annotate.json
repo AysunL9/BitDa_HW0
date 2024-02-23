@@ -48,6 +48,56 @@
         "up_coordinate": [64.4, 74.8],
         "type_word": null
       }
+    ],
+    "2.mp4": [
+      {
+        "start_frame": "49",
+        "end_frame": "86",
+        "action_type": "swipe",
+        "down_coordinate": [52.7, 85.6],
+        "up_coordinate": [52.7, 48.8],
+        "type_word": null
+      },
+      {
+        "start_frame": "159",
+        "end_frame": "165",
+        "action_type": "click",
+        "down_coordinate": [71.5, 22.6],
+        "up_coordinate": [71.5, 22.6],
+        "type_word": null
+      },
+      {
+        "start_frame": "262",
+        "end_frame": "267",
+        "action_type": "click",
+        "down_coordinate": [91.7, 41.5],
+        "up_coordinate": [91.7, 41.5],
+        "type_word": null
+      },
+      {
+        "start_frame": "330",
+        "end_frame": "333",
+        "action_type": "click",
+        "down_coordinate": [91.9, 59.1],
+        "up_coordinate": [91.9, 59.1],
+        "type_word": null
+      },
+      {
+        "start_frame": "393",
+        "end_frame": "403",
+        "action_type": "click",
+        "down_coordinate": [29.59, 93.1],
+        "up_coordinate": [29.59, 93.1],
+        "type_word": null
+      },
+      {
+        "start_frame": "490",
+        "end_frame": "604",
+        "action_type": "type",
+        "down_coordinate": null,
+        "up_coordinate": null,
+        "type_word": "Delicious!"
+      }
     ]
   }
   
