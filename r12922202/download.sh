@@ -1,3 +1,3 @@
 mkdir videos
-wget 'https://docs.google.com/uc?export=download&id=1JoyYqukkL7Z_lqw7YTO3FlcB9lOhbOPy' -O video.zip
+wget 'https://docs.google.com/uc?export=download&id=1ZHHGrxMLZ5GcLHApNQ4h6eR3yiM1zOe4' -O video.zip
 unzip video.zip -d ./videos/
